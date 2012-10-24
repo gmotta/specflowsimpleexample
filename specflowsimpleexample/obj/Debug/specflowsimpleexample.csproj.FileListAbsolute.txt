@@ -1,0 +1,9 @@
+C:\Users\Motta\Documents\Visual Studio 2010\Projects\specflowsimpleexample\specflowsimpleexample\bin\Debug\specflowsimpleexample.dll.config
+C:\Users\Motta\Documents\Visual Studio 2010\Projects\specflowsimpleexample\specflowsimpleexample\bin\Debug\specflowsimpleexample.dll
+C:\Users\Motta\Documents\Visual Studio 2010\Projects\specflowsimpleexample\specflowsimpleexample\bin\Debug\specflowsimpleexample.pdb
+C:\Users\Motta\Documents\Visual Studio 2010\Projects\specflowsimpleexample\specflowsimpleexample\bin\Debug\nunit.framework.dll
+C:\Users\Motta\Documents\Visual Studio 2010\Projects\specflowsimpleexample\specflowsimpleexample\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Motta\Documents\Visual Studio 2010\Projects\specflowsimpleexample\specflowsimpleexample\bin\Debug\nunit.framework.xml
+C:\Users\Motta\Documents\Visual Studio 2010\Projects\specflowsimpleexample\specflowsimpleexample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Motta\Documents\Visual Studio 2010\Projects\specflowsimpleexample\specflowsimpleexample\obj\Debug\specflowsimpleexample.dll
+C:\Users\Motta\Documents\Visual Studio 2010\Projects\specflowsimpleexample\specflowsimpleexample\obj\Debug\specflowsimpleexample.pdb

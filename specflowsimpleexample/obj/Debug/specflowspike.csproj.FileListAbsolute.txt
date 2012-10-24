@@ -1,0 +1,9 @@
+c:\users\motta\documents\visual studio 2010\Projects\specflowspike\specflowspike\obj\Debug\ResolveAssemblyReference.cache
+c:\users\motta\documents\visual studio 2010\Projects\specflowspike\specflowspike\bin\Debug\specflowspike.dll.config
+c:\users\motta\documents\visual studio 2010\Projects\specflowspike\specflowspike\bin\Debug\specflowspike.dll
+c:\users\motta\documents\visual studio 2010\Projects\specflowspike\specflowspike\bin\Debug\specflowspike.pdb
+c:\users\motta\documents\visual studio 2010\Projects\specflowspike\specflowspike\bin\Debug\nunit.framework.dll
+c:\users\motta\documents\visual studio 2010\Projects\specflowspike\specflowspike\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\motta\documents\visual studio 2010\Projects\specflowspike\specflowspike\bin\Debug\nunit.framework.xml
+c:\users\motta\documents\visual studio 2010\Projects\specflowspike\specflowspike\obj\Debug\specflowspike.dll
+c:\users\motta\documents\visual studio 2010\Projects\specflowspike\specflowspike\obj\Debug\specflowspike.pdb
